@@ -65,11 +65,10 @@ public class PlayerMovement : MonoBehaviour
         {
             jumpRequest = true;
         }
-
-
+    }
 
     private void ApplyMovement()
     {
-        Vector3 moveDirection 
+        Vector3 moveDirection  = 
     }
 }
